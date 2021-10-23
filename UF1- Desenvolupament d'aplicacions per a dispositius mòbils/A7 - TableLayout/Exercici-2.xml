@@ -14,7 +14,7 @@
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -24,7 +24,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -34,7 +34,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -44,7 +44,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#FF0000"
             android:gravity="center"
@@ -60,7 +60,7 @@
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -70,7 +70,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -80,7 +80,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -90,7 +90,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#FF0000"
             android:gravity="center"
@@ -106,7 +106,7 @@
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -116,7 +116,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -126,7 +126,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -136,7 +136,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#FF0000"
             android:gravity="center"
@@ -152,7 +152,7 @@
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -162,7 +162,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -172,7 +172,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#000080"
             android:gravity="center"
@@ -182,7 +182,7 @@
             android:textSize="40dp" />
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="183dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="#FF0000"
             android:gravity="center"
