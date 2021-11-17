@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#eaeaea"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <ToggleButton android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:id="@+id/tbtn_opcio"
+        android:background="@drawable/tbtn_selector"
+        android:textOff=""
+        android:textOn=""/>
+
+    <TextView
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        />
+
+    <ToggleButton android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:id="@+id/tbtn_opcio1"
+        android:background="@drawable/tbtn_selector1"
+        android:textOff=""
+        android:textOn=""/>
+
+    <TextView
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        />
+
+    <ToggleButton android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/tbtn_opcio2"
+        android:background="@drawable/tbtn_selector2"
+        android:textOff=""
+        android:textOn=""/>
+
+</LinearLayout>
