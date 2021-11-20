@@ -1,4 +1,0 @@
-com/brahimcah/myapplication/BuildConfig.java
- com.brahimcah.myapplication.BuildConfig
-com/brahimcah/myapplication/MainActivity.java
- com.brahimcah.myapplication.MainActivity
