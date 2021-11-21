@@ -18,10 +18,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        int num = (int)(Math.random()*10+1);
+
+
         final Button btn_1 = findViewById(R.id.btn1);
         final ImageView img1=findViewById(R.id.img1);
         final ImageView img2=findViewById(R.id.img2);
-        img1.setImageResource(R.drawable.mico1);
+        String a = "R.drawable.(habitants[1])";
+        img1.setImageResource(Integer.parseInt(a));
         img2.setImageResource(R.drawable.mico2);
         btn_1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
