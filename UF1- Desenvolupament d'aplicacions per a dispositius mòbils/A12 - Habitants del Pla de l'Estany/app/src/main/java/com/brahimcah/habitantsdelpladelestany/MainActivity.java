@@ -30,13 +30,14 @@ public class MainActivity extends AppCompatActivity {
         AutoCompleteTextView atv_Municipi = (AutoCompleteTextView)
                 findViewById(R.id.atv_Municipi);
         atv_Municipi.setAdapter(adapter);
+        String a = atv_Municipi.toString();
 
         final Button btn_1 = findViewById(R.id.btn_1);
         final TextView atv_HABITANTS=findViewById(R.id.atv_HABITANTS);
         btn_1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 // Aquest és el codi que s'executa al clicar
-                atv_HABITANTS.setText("Has fet clic!");
+                atv_HABITANTS.setText(a);
             }
         });
     }
